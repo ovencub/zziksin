@@ -1,6 +1,6 @@
 # 이사했어요
 
-찍신(ZZIK SIN)은 **대한민국 통계고사 (K-test)** 로 이름이 바뀌었습니다.
+찍신(ZZIK SIN)은 **그 정도라고?** 로 이름이 바뀌었습니다. (저장소: k-test)
 
 - 플레이: https://ovencub.github.io/k-test/
 - 저장소: https://github.com/ovencub/k-test
